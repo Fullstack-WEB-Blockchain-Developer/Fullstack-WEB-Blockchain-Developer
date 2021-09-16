@@ -21,13 +21,6 @@ I had already built so many Websites with the mentioned skill.
 - 💬 Telegram : [@crypto_super_dev](https://t.me/crypto_super_dev/);
 - 📝 Email : sgirad86@gmail.com
 
-## Github Stats
-
-<table><tr><td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-BC-Developer&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -62,3 +55,12 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+
+<br/>  
+
+
+## Github Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fullstack-BC-Developer&show_icons=true&count_private=true&hide_border=true" align="left" style="height: 150px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-BC-Developer&hide_border=true&layout=compact" align="right" style="height: 150px" /><br/>  
