@@ -1,17 +1,18 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  
+
   <br />
   
   Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
+I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-I have developing sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask, and much more.
+I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, Angular, and Vue.
+Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
 
 I had already built so many Websites with the mentioned skill.
-
 
  <div>
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" height="320" />
@@ -20,9 +21,14 @@ I had already built so many Websites with the mentioned skill.
 - 💬 Telegram : [@crypto_super_dev](https://t.me/crypto_super_dev/);
 - 📝 Email : sgirad86@gmail.com
 
+## Github Stats
 
+<table><tr><td valign="top">
 
-**Languages and Tools:**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-BC-Developer&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -46,7 +52,6 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
@@ -57,4 +62,3 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-
