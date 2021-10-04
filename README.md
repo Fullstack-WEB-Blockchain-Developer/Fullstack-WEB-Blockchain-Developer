@@ -66,9 +66,12 @@ I had already built so many Websites with the mentioned skill.
 
 <br/>  
 
+<div align="center"/>
 
-## Github Stats  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=mern-dev-full)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fullstack-BC-Developer&show_icons=true&count_private=true&hide_border=true" align="left" style="height: 150px" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Fullstack-BC-Developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-BC-Developer&hide_border=true&layout=compact" align="right" style="height: 150px" /><br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-BC-Developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
+</div>
