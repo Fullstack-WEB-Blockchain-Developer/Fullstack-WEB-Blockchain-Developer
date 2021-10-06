@@ -70,7 +70,7 @@ I had already built so many Websites with the mentioned skill.
 
 <div align="center"/>
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=mern-dev-full)
+<!-- ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=mern-dev-full) -->
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Fullstack-BC-Developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
