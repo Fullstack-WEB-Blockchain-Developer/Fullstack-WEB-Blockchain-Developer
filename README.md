@@ -66,7 +66,7 @@ I had already built so many Websites with the mentioned skill.
 
 <br/>  
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true)
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true)
 
 <div align="center"/>
 
