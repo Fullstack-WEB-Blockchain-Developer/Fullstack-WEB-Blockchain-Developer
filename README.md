@@ -26,8 +26,8 @@ I had already built so many Websites with the mentioned skill.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
     
-<!-- - 💬 Telegram : [@crypto_super_dev](https://t.me/crypto_super_dev/);
-- 📝 Email : sgirad86@gmail.com -->
+- 💬 skype : [@STAG](https://join.skype.com/invite/yEdxef6Av6pk);
+- 📝 Email : mailto:vandiago080@gmail.com
 
 **Languages and Tools:**
 
