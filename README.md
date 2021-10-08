@@ -1,10 +1,10 @@
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-BC-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
-
+</p>
+<!-- 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
+</p> -->
 
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -66,11 +66,11 @@ I had already built so many Websites with the mentioned skill.
 
 <br/>  
 
-<!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true) -->
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true)
 
 <div align="center"/>
 
-<!-- ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=mern-dev-full) -->
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=Fullstack-BC-Developer)
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Fullstack-BC-Developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
