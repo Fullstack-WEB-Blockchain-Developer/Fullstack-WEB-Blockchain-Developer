@@ -64,9 +64,14 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
-<br/>  
+<p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
+<img align="right" src="https://img.shields.io/github/followers/Fullstack-BC-Developer?label=Follow&style=social" />
+</p>
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true)
+<br/>
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-BC-Developer&theme=github&count_private=true)
 
 <div align="center"/>
 
