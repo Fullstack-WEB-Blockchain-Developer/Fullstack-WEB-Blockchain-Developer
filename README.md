@@ -27,6 +27,7 @@ I had already built so many Websites with the mentioned skill.
 </div>
     
 <!-- - 💬 skype : [@STAG](https://join.skype.com/invite/yEdxef6Av6pk); -->
+- 💬 TG : https://t.me/IvanDev080;
 - 📝 Email : mailto:vandiago080@gmail.com
 
 **Languages and Tools:**
