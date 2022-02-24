@@ -25,7 +25,9 @@ I had already built so many Websites with the mentioned skill.
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
-    
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 - 💬 skypeID : live:.cid.2f68f61b0b828264;
 - 📞 TG : https://t.me/IvanDev080;
 - 📝 Email : mailto:javierdesardins@outlook.com
