@@ -29,7 +29,7 @@ I had already built so many Websites with the mentioned skill.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
-- [💬 skypeID](skype:live:.cid.2f68f61b0b828264)
+- [💬 skypeID](skype:live:.cid.2f68f61b0b828264)  skype:live:.cid.2f68f61b0b828264
 - [📞 TG](https://t.me/IvanDev080)
 - [📝 Email](mailto:javierdesardins@outlook.com)
 
