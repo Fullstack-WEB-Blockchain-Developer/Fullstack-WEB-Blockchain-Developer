@@ -30,7 +30,7 @@ I had already built so many Websites with the mentioned skill.
 
 
 - [💬 skypeID](skype:live:.cid.2f68f61b0b828264)  skype:live:.cid.2f68f61b0b828264
-- [📞 TG](https://t.me/IvanDev080)
+- [📞 TG](https://t.me/pdev217)
 - [📝 Email](mailto:javierdesardins@outlook.com)
 
 **Languages and Tools:**
