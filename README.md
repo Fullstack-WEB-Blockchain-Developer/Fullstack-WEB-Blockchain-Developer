@@ -31,10 +31,6 @@ I had already built so many Websites with the mentioned skill.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
-- [💬 skypeID](skype:live:.cid.2f68f61b0b828264)  skype:live:.cid.2f68f61b0b828264
-- [📞 TG](https://t.me/pdev217)
-- [📝 Email](mailto:javierdesardins@outlook.com)
-
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
