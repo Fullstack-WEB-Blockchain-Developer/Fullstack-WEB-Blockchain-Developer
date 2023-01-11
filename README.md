@@ -80,7 +80,7 @@ I had already built so many Websites with the mentioned skill.
 
 <br/>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true)
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true) -->
 
 <div align="center"/>
 
